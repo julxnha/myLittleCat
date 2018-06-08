@@ -1,0 +1,95 @@
+h1 {
+    margin: 6px;
+    color: white;
+    
+}
+
+.flex{
+    display: flex;
+}
+.menu {
+    width: 170px;
+    height: 50px;
+    border: none;
+    color: white;
+    background-color: #67597A;
+    font-size: 24px;
+    margin: auto 7px;
+}
+
+#logo   {
+    margin: 0 0 0 450px;
+    width: 100px;
+    height: 50px;
+}
+
+.logo {
+    background-color: #67597A;
+    display: flex;
+}
+
+#btn {
+    background-color: #67597A;
+}
+
+.adote {
+    margin-left: 400px;
+    width: 700px;
+    display:flex;
+}
+
+#gato1 {
+    margin: 0 20px 0 50px;
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+    border-color: black;
+}
+
+#texto1 {
+    width: 700px;
+    display:flex;
+}
+
+#ajude2 {
+/*    margin-left: 400px;*/
+
+}
+
+#gatodebotas {
+    /*margin-left: 350px;*/
+    border-radius: 100px;
+    height: 200px;
+    width: 200px;
+}
+
+
+#recolhimento2 {
+    margin-left: 400px;
+
+}
+
+#gato2 {
+    margin-left: 350px;
+    border-radius: 100px;
+    height: 200px;
+    width: 200px;
+}
+
+#gato3{
+    border-radius: 100px;
+    height: 200px;
+    width: 200px;
+}
+
+#esq {
+    width: 70%;
+}
+
+.ajude {
+    margin-left: 50px;
+}
+
+h2 {
+    color: #6E8894
+}
