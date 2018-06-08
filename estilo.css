@@ -43,7 +43,7 @@ h1 {
     height: 200px;
     width: 200px;
     border-radius: 100px;
-    border-color: black;
+    border:solid 5px #85BAA1;
 }
 
 #texto1 {
@@ -61,6 +61,7 @@ h1 {
     border-radius: 100px;
     height: 200px;
     width: 200px;
+    border:solid 5px #85BAA1;
 }
 
 
@@ -71,13 +72,20 @@ h1 {
 
 #gato2 {
     margin-left: 350px;
+    border:solid 5px #85BAA1;
     border-radius: 100px;
     height: 200px;
     width: 200px;
 }
 
+#sobrenos{
+    margin-left: 125px;
+}
+
 #gato3{
+    margin-left: 75px;
     border-radius: 100px;
+    border:solid 5px #85BAA1;
     height: 200px;
     width: 200px;
 }
